@@ -1,5 +1,3 @@
-import java.util.*;
-
 class Person{
 
     private String username;
